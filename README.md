@@ -1,2 +1,5 @@
 # circle02_testers
-tests for push_swap, so_long, pipex
+Current planned tests:
+* so_long
+* push_swap
+* pipex
