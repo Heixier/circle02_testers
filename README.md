@@ -15,3 +15,6 @@ instead of
 ```>./push_swap "5 3 4 2 1"```
 
 The latter requiring the program to automatically detect the numbers separately. Note: this is sometimes done by students as zsh does not automatically expand variables like in bash.
+
+## so_long
+sl_map_checker is a map validation tool designed to try and break the program by passing in invalid arguments and maps.
